@@ -25,9 +25,9 @@ Provide step-by-step instructions for installing and setting up your project. Th
 ## How to Run
 - First you have to install the dependencies. for this purpose go to the directory where package.json is located
 - run the following commands in the terminal or cmd
-- npm install
+   - npm install
 - After completing the installation of node modules, run the following command in the same terminal or cmd
-- npm run dev
+   - npm run dev
 
 
 
