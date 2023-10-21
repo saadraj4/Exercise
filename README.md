@@ -19,8 +19,8 @@ List any prerequisites that need to be installed on the user's system before the
 Provide step-by-step instructions for installing and setting up your project. This may include:
 
 1. Clone the repository:
-   git clone https://github.com/saadraj4/Exercise.git
-   cd Exercise
+   - git clone https://github.com/saadraj4/Exercise.git
+   - cd Exercise
 
 ## How to Run
 - First you have to install the dependencies. for this purpose go to the directory where package.json is located
